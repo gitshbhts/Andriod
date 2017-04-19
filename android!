@@ -1,0 +1,10 @@
+# Andriod
+This is beginner's android developer
+<TextView
+    android:text="Happy Birthday 2 you !"
+    android:background="#84FFFF"
+    android:textColor="#FF3D00"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="45sp"
+    />
